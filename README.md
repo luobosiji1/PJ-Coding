@@ -1,5 +1,6 @@
 # PJ-Coding
 
+
 Rapid archiving Solution file
 
  * Must be inherited NSObject class or subclass
@@ -48,4 +49,5 @@ Rapid archiving Solution file
  * 如果想忽略某个属性不进行归档 调用方法 返回的是不进行归档的属性
  
   		`-(NSArray *)ignoredName;`
+
 
