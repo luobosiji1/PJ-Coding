@@ -1,7 +1,8 @@
 # PJ-Coding
+
 Rapid archiving Solution file
 
-* Must be inherited NSObject class or subclass
+ * Must be inherited NSObject class or subclass
  
  * Observe the ` < NSCoding > ` agreement
  
@@ -26,8 +27,7 @@ Rapid archiving Solution file
   ------
   
  
- 
- 
+
  * 必须是继承NSObject或子类的类
  
  * 遵守 `<NSCoding>`协议
@@ -48,6 +48,4 @@ Rapid archiving Solution file
  * 如果想忽略某个属性不进行归档 调用方法 返回的是不进行归档的属性
  
   		`-(NSArray *)ignoredName;`
-  	
-  	
-  	
+
